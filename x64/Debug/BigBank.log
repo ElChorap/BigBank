@@ -1,0 +1,2 @@
+﻿  pch.cpp
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\BigBank\pch.cpp(6,1): error C2857: '#include' statement specified with the /Ycpch.h command-line option was not found in the source file
